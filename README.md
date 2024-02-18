@@ -42,7 +42,7 @@ For this project to be effective, you will need the following items for the Rasp
 
 
 
-![Image](https://github.com/justvincredible/DarthWrt/blob/main/pi4.png)
+![Image](https://github.com/justvincredible/DarthWRT/blob/main/DarthWrt/pi4.png)
 
 
 
@@ -60,7 +60,7 @@ git clone https://github.com/Brilliance0nly/DarthWrt.git
 
 
 
-![Image](https://github.com/justvincredible/DarthWrt/blob/main/etcher.png)
+![Image](https://github.com/justvincredible/DarthWRT/blob/main/DarthWrt/etcher.png)
 
 
 
